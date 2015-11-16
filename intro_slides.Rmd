@@ -1,6 +1,0 @@
-# slides:
-
-R0
-Rt
-Liberia map and pop size
-Incidence vs cumulative curves
